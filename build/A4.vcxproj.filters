@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\GLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\GLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\resources\frag.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\resources\frag2.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\resources\vert.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\resources\vert2.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AF2540C6-7947-39AD-9C6E-BFEF732B8EBE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{25F8FFAB-7475-3985-8030-03FA6F2E15A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

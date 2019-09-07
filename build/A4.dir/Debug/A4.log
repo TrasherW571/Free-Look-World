@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(253): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(316): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(330): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\src\main.cpp(406): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  A4.vcxproj -> C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA4\A4\build\Debug\A4.exe
